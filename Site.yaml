@@ -1,0 +1,19 @@
+"name": "react-static-website",
+"runtime": "yaml",
+"description": "Example site",
+"resources" : {
+    "web":{
+        "type": "static git page",
+        
+
+
+
+    }
+
+
+
+
+
+
+
+}
